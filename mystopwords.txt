@@ -11,17 +11,10 @@ call
 like
 different
 create
-c
 license
 know
-s
-p
-b
-m
 answer
 correct
 incorrect
 exercise
-e
 km
-g
